@@ -1,0 +1,70 @@
+#Index {
+    text-align: center;
+    background-color: #7dffd1;
+}
+#Home{
+    font-family: "Joti One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #B22222;
+    font-size: 60px;
+}
+#Tab{
+    font-family: "Joti One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #B22222;
+    font-size: 40px;
+}
+
+#Essay {
+    text-align: center;
+    background-color: #e97979;
+}
+#Sub {
+    color: #36454F;
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+}
+.essay {
+    text-align: left;
+    text-indent: 20px;
+}
+
+#Location {
+    text-align: center;
+    background-color: #d633e0;
+}
+#Port, #Link{
+    font-size: 45px;
+    font-family: "Tilt Prism", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "XROT" 0,
+    "YROT" 0;
+    color: orange;
+}
+#End {
+    font-size: 40px;
+    font-family: "Tilt Prism", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "XROT" 0,
+    "YROT" 0;
+    color: orange;
+}
+
+#Photo {
+    text-align: center;
+    background-color: #ffd14f;
+}
+img {
+    display: block;
+    margin: auto;
+}
